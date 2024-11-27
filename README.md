@@ -7,7 +7,10 @@ A Streamlit application that allows users to upload PDF documents and engage in 
 1. **Upload PDFs**: Upload one or multiple PDF files.
 2. **Ask Questions**: Enter your question about the PDF content.
 3. **Get Responses**: The chatbot will provide relevant answers based on the document content.
-4. **Demo Link**:
+4. **Demo Link**: https://github.com/pruthi-saksham/Updated-PDF-Chatbot/blob/main/app3.mp4
+  - Visit the link
+  - Click on `View raw`
+  - The video will be downloaded to your local system.
 
 
 # Features
