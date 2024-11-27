@@ -44,12 +44,12 @@ Ensure the following dependencies are installed and configured:
 
 - **Clone the project repository to your local machine**:
 ```bash
-git clone https://link-to-project
+git clone (https://github.com/pruthi-saksham/Updated-PDF-Chatbot)
 ```
 
 - **Go to the project directory**:
 ```bash
-cd my-project
+cd Updated-PDF-Chatbot
 ```
 
 - **Install dependencies**:
