@@ -37,9 +37,9 @@ A Streamlit application that allows users to upload PDF documents and engage in 
 
 Ensure the following dependencies are installed and configured:
 
-- **Python Version:** 3.12
-- **Streamlit:** Latest version
-- **Ollama Model:** Download and set up `llama2` model locally by running this command in yoy command prompt `ollama run llama2`.
+1. **Python Version:** 3.12
+2. **Streamlit:** Latest version
+3. **Ollama Model:** Download and set up `llama2` model locally by running this command in yoy command prompt `ollama run llama2`.
 
 
 - **Clone the project repository to your local machine**:
